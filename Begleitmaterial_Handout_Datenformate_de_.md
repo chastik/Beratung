@@ -5,18 +5,14 @@
 
 ## Strukturierte Daten
 
-[[x]] CSV
+Welche Datenformate werden verwendet?
 
+[[ ]] CSV
 [[ ]] JSON
-
 [[ ]] XML
-
 [[ ]] SQL
-
 [[ ]] PostgresQSL
-
 [[ ]] Excel
-
 [[ ]] YAML
 
 ## Unstrukturierte Daten
