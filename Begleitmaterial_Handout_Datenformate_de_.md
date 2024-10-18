@@ -1,37 +1,48 @@
 
 # Datenformate im Kontext der Datenspeicherung und Datenverarbeitung
 
-# Wählen Sie die Datenformate aus
+Welche Dateitypen und Dateiformate fallen im Arbeitsprozess an?
+
+Dateitypen sind Bild, Text, Video, Audio und Dokument.
+
+Dateiformate sind eine standardisierte Methode, Informationen in eines Dateityps zu speichern damit sie von einem Computer oder anderen Geräten interpretiert und repräsentiert werden können. Jedes Dateiformat ist durch eine Dateiendung (z.B. .txt, .pdf, .jpg) und durch spezifische Strukturen und Regeln, die festlegen, wie Daten in der Datei kodiert werden, definiert.
+
+Der Dateityp "Bild" umfasst alle Bilddateiformate (JPG, GIF, PNG, SVG)  usw.
 
 ## Strukturierte Daten
 
 Welche Datenformate werden verwendet?
 
-[[ ]] CSV
-[[ ]] JSON
-[[ ]] XML
-[[ ]] SQL
-[[ ]] PostgresQSL
-[[ ]] Excel
-[[ ]] YAML
+[[CSV]] CSV
+[[JSON]] JSON
+[[XML]] XML
+[[SQL]] SQL
+[[Postgres]] Postgres 
+[[Excel]] Excel
+[[YAML]] YAML
 
 ## Unstrukturierte Daten
 
-[[ ]] Text
-[[ ]] Dokument
-[[ ]] Bildformate
-[[ ]] Audioformate
-[[ ]] Videoformate
-[[ ]] E-Mails
-[[ ]] Webseiteninhalte
-[[ ]] Social-Media-Post
-[[ ]] Log-Datei
-[[ ]] Sensor- und IoT-Daten
+Welche Datenformate werden verwendet?
+
+[[Text]] Text
+[[Dokument]] Dokument
+[[Bildformate]] Bildformate 
+[[Audioformate]] Audioformate
+[[Videoformate]] Videoformate 
+[[E-Mails]] E-Mails
+[[Webseiteninhalte]] Webseiteninhalte
+[[Social-Media-Post]] Social-Media-Post
+[[Log-Datei]] Log-Datei
+[[Sensor]] Sensor
+[[IoT-Daten]] IoT-Daten
 
 
 ## Semi-strukturierte Daten
 
-[[ ]] HTML
-[[ ]] JSON
-[[ ]] YAML
-[[ ]] E-Mails
+Welche Datenformate werden verwendet?
+
+[[HTML]] HTML
+[[JSON]] JSON
+[[YAML]] YAML
+[[E-Mails]] E-Mails
