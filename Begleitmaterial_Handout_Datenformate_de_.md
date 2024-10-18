@@ -1,3 +1,17 @@
+<!--
+
+author:   Canan Hastik
+email:    canan@hastik.de
+version:  0.0.1
+language: de
+narrator: Deutsch Female
+title: SODA BeratungsCamp (SODa Barcamp in Berlin)
+
+comment: SODa BeratungsCamp: Kennenlernen der Arbeitspraxis in Sammlungen von Liebesbriefen bis Computerspielen
+
+licence: cc-by
+
+-->
 
 # Datenformate im Kontext der Datenspeicherung und Datenverarbeitung
 
