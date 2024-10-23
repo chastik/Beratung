@@ -15,9 +15,9 @@ licence: cc-by
 
 # Zielsetzung: Beratungssituation für das Arbeiten mit strukturierten Daten in der Konservierungsdokumentation.
 
-WL: Stellt vor. 
+WL stellt vor. 
 
-TN: Hören zu.
+TN hören zu.
 
 
 ## Inhalt
@@ -36,8 +36,9 @@ In unserem Beratungscamp starten wir mit einem **Erfahrungsaustausch**, und erfa
 
 # Kurzvorstellung: Eigene Verantwortlichkeiten im (projektspezifischen) Forschungsdatenmanagement erläutern.
 
-WL: Bittet um Zuruf
-TN: Nennen Namen und Rolle. 
+WL bittet um Zuruf.
+
+TN nennen Namen und Rolle. 
 
 
 
