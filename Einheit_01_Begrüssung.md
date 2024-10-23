@@ -42,11 +42,11 @@ Beispiele sind
 * Professor:in
 * Sammlungskoordination
 * Sammlungsleitende
-1. Sammlungsbeauftragte
-1. Forschende
-1. Studentische Hilfskraft
-1. Archivar:in
-1. Technisches Personal
-1. Externe Dienstleister
-1. Sonstiges
+* Sammlungsbeauftragte
+* Forschende
+* Studentische Hilfskraft
+* Archivar:in
+* Technisches Personal
+* Externe Dienstleister
+* Sonstiges
 
