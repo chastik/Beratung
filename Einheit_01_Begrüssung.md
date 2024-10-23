@@ -13,12 +13,11 @@ licence: cc-by
 
 -->
 
-# Zielsetzung: Beratungssituation für das Arbeiten mit strukturierten Daten in der Konservierungsdokumentation.
+# Zielsetzung
 
-WL stellt vor. 
+## Beratungssituation für das Arbeiten mit strukturierten Daten in der Konservierungsdokumentation.
 
-TN hören zu.
-
+WL stellt vor und TN hören zu.
 
 ## Inhalt
 
@@ -32,15 +31,13 @@ am Beispiel der Konservierungsdokumentation.
 In unserem Beratungscamp starten wir mit einem **Erfahrungsaustausch**, und erfassen und diskutieren wir Ihre konkreten **Bedarfe** und **Herausforderungen** und entwickeln **Lösungsvorschläge**.
 
 
+# Kurzvorstellung
 
+## Eigene Verantwortlichkeiten im (projektspezifischen) Forschungsdatenmanagement erläutern.
 
-# Kurzvorstellung: Eigene Verantwortlichkeiten im (projektspezifischen) Forschungsdatenmanagement erläutern.
+WL bittet um Zuruf und TN nennen Namen und Rolle. 
 
-WL bittet um Zuruf.
-
-TN nennen Namen und Rolle. 
-
-
+Beispiele sind
 
 1. Professor:in
 1. Sammlungskoordination
