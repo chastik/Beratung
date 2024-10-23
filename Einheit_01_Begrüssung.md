@@ -33,15 +33,15 @@ In unserem Beratungscamp starten wir mit einem **Erfahrungsaustausch**, und erfa
 
 # Kurzvorstellung
 
-## Eigene Verantwortlichkeiten im (projektspezifischen) Forschungsdatenmanagement erläutern.
+## Eigene Verantwortlichkeiten im (projektspezifischen) Forschungsdatenmanagement benennen und erläutern.
 
 WL bittet um Zuruf und TN nennen Namen und Rolle. 
 
 Beispiele sind
 
-1. Professor:in
-1. Sammlungskoordination
-1. Sammlungsleitende
+* Professor:in
+* Sammlungskoordination
+* Sammlungsleitende
 1. Sammlungsbeauftragte
 1. Forschende
 1. Studentische Hilfskraft
