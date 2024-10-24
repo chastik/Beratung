@@ -17,7 +17,7 @@ licence: cc-by
 
 Beratungssituation für das Arbeiten mit strukturierten Daten in der Konservierungsdokumentation.
 
-***WL stellt vor und TN hören zu.***
+*WL stellt vor und TN hören zu.*
 
 **Inhalt**
 
