@@ -82,8 +82,13 @@ In unserem BeratungsCamp beginnen wir mit einem **Erfahrungsaustausch**, erfasse
 ## Typische Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenzyklus benennen.
 
 
-
+## Dateitypen, Dateiformate und Datenformate bennen und erläutern.
 
 ## Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern.
 
 Das Verständnis dieser Unterschiede ist entscheidend, um geeignete Technologien zur Datenspeicherung, -verarbeitung und -analyse auszuwählen.
+
+
+## Verwendung von Dateitypen benennen. 
+
+## Dateiformate für die Archivierung und Nachnutzung benennen.
