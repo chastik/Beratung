@@ -74,3 +74,10 @@ In unserem BeratungsCamp beginnen wir mit einem **Erfahrungsaustausch**, erfasse
 
     14. Die fünf Stufen des 5-Sterne-Modells für offene Daten benennen und erläutern.
     15. Qualität und Zugänglichkeit von Daten anhand des 5-Sterne-Modells für offene Daten analysieren und bewerten.
+
+
+
+# Einheit 3: Arbeiten mit sammlungsbezogenen Forschungsdaten
+
+## Typische Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenzyklus benennen
+
