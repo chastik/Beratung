@@ -8,10 +8,12 @@ link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/sod
 comment:  Dieses Modul....
 -->
 
+# Wie unterscheiden sich strukturierte und unstrukturierte Datenformate?
+
 
 ## Strukturierte Datenformate
 
-Strukturierte Datenformate sind standardisierte Formate, die eine klare Organisation der Daten ermöglichen, sodass sie leicht von Maschinen gelesen, interpretiert und verarbeitet werden können. Die wichtigsten Datenformate sind:
+Strukturierte Datenformate sind als vordefiniertes Datenmodell oder Schema standardisiert. Damit isz eine klare Organisation der Daten möglich, sodass diese leicht von Maschinen gelesen, interpretiert und verarbeitet werden können. Die wichtigsten Datenformate sind:
 
 1. Tabellenbasierte Formate
 
@@ -59,41 +61,16 @@ Strukturierte Datenformate sind standardisierte Formate, die eine klare Organisa
 
 Strukturierte Datenformate sind für die Datenanalyse, -statistik und -visualisierung grundlegend.
 
-Welche Datenformate kommen bei der Forschungsmaßnahme "... Auswahlbegriff.." zum Einsatz?
 
-[[CSV]] CSV
-[[XLS/XLSX]] XLS/XLSX 
-[[SQL]] SQL
-[[SQLlite]] SQLlite
-[[Postgres]] Postgres 
-[[JSON]] JSON
-[[XML]] XML
-[[YAML]] YAML
-[[INI]-Datei] INI-Datei
-[[Log-Datei]] Log-Datei
-[[SPSS/SAS]] SPSS/SAS
-[[HDF5]] HDF5
-
+SIEHE AUCH https://aws.amazon.com/de/compare/the-difference-between-structured-data-and-unstructured-data/ 
 
 ## Unstrukturierte Dateitypen
 
-Diese Daten haben keine vorab definierte Datenstruktur. Sie können Text, Multimedia oder Rohdaten sein, die ohne einheitliches Schema gespeichert werden. Typische Beispiele sind Dokumente, E-Mails, Bilder und Social-Media-Posts.
+Unstrukturierte Dateitypen haben keine vorab definierte Datenstruktur. Sie können Text, Multimedia oder Rohdaten sein, die ohne einheitliches Schema gespeichert werden. 
 
-[[Text]] Text
-[[Dokument]] Dokument
-[[Bildformate]] Bildformate 
-[[Audioformate]] Audioformate
-[[Videoformate]] Videoformate 
-[[E-Mails]] E-Mails
-[[Webseiteninhalte]] Webseiteninhalte
-[[Social-Media-Post]] Social-Media-Post
-[[Sensor]] Sensor
-[[IoT-Daten]] IoT-Daten
-
+**Beispiele** sind Texte, Dokumente, E-Mails, Bild, Audio, Video, Webseiteninhalte, Social-Media-Posts, Sensor und IioT-Daten.
 
 ## Semi-strukturierte Daten
-
-Welche Datenformate werden verwendet?
 
 [[HTML]] HTML
 [[JSON]] JSON
