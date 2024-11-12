@@ -79,5 +79,11 @@ In unserem BeratungsCamp beginnen wir mit einem **Erfahrungsaustausch**, erfasse
 
 # Einheit 3: Arbeiten mit sammlungsbezogenen Forschungsdaten
 
-## Typische Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenzyklus benennen
+## Typische Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenzyklus benennen.
 
+
+
+
+## Unterschiede zwischen strukturierten, unstrukturierten und semi-strukturierten Daten erläutern.
+
+Das Verständnis dieser Unterschiede ist entscheidend, um geeignete Technologien zur Datenspeicherung, -verarbeitung und -analyse auszuwählen.

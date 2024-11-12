@@ -9,50 +9,21 @@ comment:  Dieses Modul....
 -->
 
 
-# Datenformate im Kontext der Datenspeicherung und Datenverarbeitung
+# Welche Dateitypen, Dateiformate und Datenformate fallen im Kontext der Datenspeicherung, -verarbeitung und -analyse an?
 
-Welche Dateitypen und Dateiformate fallen im Arbeitsprozess an?
+## Dateitypen  
 
-Dateitypen sind Bild, Text, Video, Audio und Dokument.
+**Dateityp** beschreibt die allgemeine Art des Inhalts, der in einer Datei gespeichert wird und wird über das Dateiformat bestimmt. Dateitypen können Text, Bild, Multimedia, Audio, oder Rohdaten sein, die ohne einheitliches Schema gespeichert werden. 
 
-Dateiformate sind eine standardisierte Methode, Informationen in eines Dateityps zu speichern damit sie von einem Computer oder anderen Geräten interpretiert und repräsentiert werden können. Jedes Dateiformat ist durch eine Dateiendung (z.B. .txt, .pdf, .jpg) und durch spezifische Strukturen und Regeln, die festlegen, wie Daten in der Datei kodiert werden, definiert.
+Typische Beispiele sind Dokumente, Bild, Text, Video, Audio, Dokument, E-Mails, Social-Media-Posts, usw.
 
-Der Dateityp "Bild" umfasst alle Bilddateiformate (JPG, GIF, PNG, SVG)  usw.
+## Dateiformate
++
+**Dateiformate** sind eine standardisierte Strukturierung und Kodierung der Daten eines Dateityps, damit diese gelesen, interpretiert und repräsentiert werden können. Jedes Dateiformat ist durch eine Dateiendung (z.B. .txt, .pdf, .jpg) und durch spezifische Strukturen und Regeln innerhalb der definiert. Das Dateiformat bestimmt, legt fest, wie die Daten physisch gespeichert sind und welche Software in der Lage ist, die Datei korrekt zu lesen und zu verarbeiten.
 
-## Strukturierte Daten
+**Beispiel** Der Dateityp "Bild" umfasst alle Bilddateiformate (JPG, GIF, PNG, SVG)  usw.
 
-Welche Datenformate werden verwendet?
+## Datenformate
 
-[[CSV]] CSV
-[[JSON]] JSON
-[[XML]] XML
-[[SQL]] SQL
-[[Postgres]] Postgres 
-[[Excel]] Excel
-[[YAML]] YAML
+**Datenformat** beschreibt die inhaltlich-logische Struktur und Organisation der Daten innerhalb eines Dateiformats. Ein standardisiertes Datenformat ermöglicht Interoperabilität in Darstellung, Verarbeitung und Austausch.
 
-## Unstrukturierte Daten
-
-Welche Datenformate werden verwendet?
-
-[[Text]] Text
-[[Dokument]] Dokument
-[[Bildformate]] Bildformate 
-[[Audioformate]] Audioformate
-[[Videoformate]] Videoformate 
-[[E-Mails]] E-Mails
-[[Webseiteninhalte]] Webseiteninhalte
-[[Social-Media-Post]] Social-Media-Post
-[[Log-Datei]] Log-Datei
-[[Sensor]] Sensor
-[[IoT-Daten]] IoT-Daten
-
-
-## Semi-strukturierte Daten
-
-Welche Datenformate werden verwendet?
-
-[[HTML]] HTML
-[[JSON]] JSON
-[[YAML]] YAML
-[[E-Mails]] E-Mails
