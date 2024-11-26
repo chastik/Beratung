@@ -1,5 +1,3 @@
-# Beratung
-
 <!--
 author: Canan Hastik, Gudrun Schwenk
 email: canan@hastik.de
