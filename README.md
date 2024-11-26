@@ -9,7 +9,8 @@ comment: Arbeiten mit strukturierten graphbasierten Daten in der Restaurierungs-
 language: de
 narrator: Deutsch Female
 repository: Beratung
-icon: https://raw.githubusercontent.com/RDM4CAU/TtL-FDM/main/images/fdm_lehre.png
+icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 -->
 
 # SODa BeratungsCamp: Format und Einführung
