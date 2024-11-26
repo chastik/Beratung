@@ -3,7 +3,7 @@ author: Canan Hastik, Gudrun Schwenk
 email: canan@hastik.de
 version: 0.0.1
 date: 2024-10-17
-comment: Arbeiten mit strukturierten graphbasierten Daten in der Restaurierungs- und Konservierungsdokumentation
+comment: BeratungsCamp Arbeiten mit strukturierten graphbasierten Daten in der Restaurierungs- und Konservierungsdokumentation
 language: de
 narrator: Deutsch Female
 repository: Beratung
@@ -11,7 +11,15 @@ icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 -->
 
-# SODa BeratungsCamp: Format und Einführung
+# SODa BeratungsCamp
+
+In diesem BeratungsCamps wird den Teilnehmenden ....
+
+Dadurch können die Teilnehmende den individuellen Wissensstand reflektieren, an Vorwissen anknüpfen und disziplinübergreifend Wissenslücken schließen.
+
+da der Basiskurs sich nicht so spezialisieren wird... ich würde dann vorschlagen, dass ergänzend zu Deiner eher ausführlichen fachspezifischen Einführung später der Anschluss zum Basiskurs und anderen bestehenden Basis-Einführungen hergestellt wird, z.B. als kommentierter virtueller Wegweiser á la https://www.uni-hildesheim.de/fb3/institute/iwist/forschung/forschungsprojekte/abgeschlossene-projekte/virtuelles-bibliotheksregal-myshelf/ damit könnten wir auch die Community mitdenken und involvieren oder ggf. ein neues Format entwerfen oder sogar eine neue Methodik (ORP) für OERs 
+
+## Zielsetzung
 
 Das BeratungsCamp dient
 
@@ -22,14 +30,10 @@ am Beispiel der Konservierungsdokumentation.
 
 Das BeratungsCamp starten mit einem **Erfahrungsaustausch**. Anschließend werden konkrete **Bedarfe** und **Herausforderungen** erfasst und diskutiert um **Lösungsvorschläge** zu entwickeln.
 
-## Zielgruppe 
 
-Das BeratungsCamp richtet sich an Sammlungsleitende, -koordinatorInnen, - beauftragte, ProfessorInnen und Forschende die in und mit universitären Sammlungen beschäftigt sind. In insgesamt 3 Modulen werden aufeinander aufbauend unterschiedliche Kompetenzniveaus (EinsteigerIn, Fortgeschrittene, ExpertIn) durch unterschiedliche Vertiefungsangebote (Modul 1-3) adressiert. Das BeratungsCamp schafft eine Plattform für den Austausch, die Vernetzung und den Aufbau von Datenkompetenz in der gesammten Sammlungs-Community.
+## Formate und Aufbau 
 
 
-## Aufbau 
-
-In dieser Einheit des BeratungsCamps wird den Teilnehmenden eine Übersicht über das Modul 1 gegeben. Dadurch können die Teilnehmende den individuellen Wissensstand reflektieren und an Vorwissen anknüpfen oder Wissenslücken schließen.
 
 In **Präsenz- oder Online-BeratungsCamp** lernen sich die Teilnehmenden kennen und es wird eine offene und vertrauensvolle Atmosphäre geschaffen.
 
