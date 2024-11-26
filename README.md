@@ -13,8 +13,6 @@ link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/sod
 
 # SODa BeratungsCamp: Format und Einführung
 
-## Zielsetzung
-
 Das BeratungsCamp dient
 
 + dem Kennenlernen Ihrer Arbeitspraxis beim Arbeiten mit Daten 
@@ -24,12 +22,12 @@ am Beispiel der Konservierungsdokumentation.
 
 Das BeratungsCamp starten mit einem **Erfahrungsaustausch**. Anschließend werden konkrete **Bedarfe** und **Herausforderungen** erfasst und diskutiert um **Lösungsvorschläge** zu entwickeln.
 
-### Zielgruppe 
+## Zielgruppe 
 
 Das BeratungsCamp richtet sich an Sammlungsleitende, -koordinatorInnen, - beauftragte, ProfessorInnen und Forschende die in und mit universitären Sammlungen beschäftigt sind. In insgesamt 3 Modulen werden aufeinander aufbauend unterschiedliche Kompetenzniveaus (EinsteigerIn, Fortgeschrittene, ExpertIn) durch unterschiedliche Vertiefungsangebote (Modul 1-3) adressiert. Das BeratungsCamp schafft eine Plattform für den Austausch, die Vernetzung und den Aufbau von Datenkompetenz in der gesammten Sammlungs-Community.
 
 
-### Aufbau 
+## Aufbau 
 
 In dieser Einheit des BeratungsCamps wird den Teilnehmenden eine Übersicht über das Modul 1 gegeben. Dadurch können die Teilnehmende den individuellen Wissensstand reflektieren und an Vorwissen anknüpfen oder Wissenslücken schließen.
 
@@ -37,7 +35,7 @@ In **Präsenz- oder Online-BeratungsCamp** lernen sich die Teilnehmenden kennen 
 
 Für das **individuelle und selbstständige Lernen** führen kompetenzorientierte Lernpfade durch die Einheiten.
 
-### Ablauf
+## Ablauf
 
 Alle Module können im Präsenz-BeratungsCamp in einem Lunch-to-Lunch-Format durchgeführt werden. 
 
@@ -45,6 +43,6 @@ Im Online-BeratungsCamp werden monatlich 1 Modul im Umfang von 120 Minuten angeb
 
 Die Selbstlerneinheiten sind jederzeit zugänglich und nutzbar.
 
-### Voraussetzung
+## Voraussetzung
 
-### Lernziele
+## Lernziele
