@@ -29,7 +29,6 @@ In diesem FAQ sind die wichtigsten Fragen und Antworten zu LiaScript samt Links 
 - „everything is private“, we do not store any data about the courses nor the users and their progress“ 
 
 (1) Compendium and course on the development of Open-couSes with LiasScript, André Dietrich, 23.10.2023,  https://github.com/LiaScript/docs, https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
-
 ***************
 
 
@@ -51,7 +50,6 @@ In diesem FAQ sind die wichtigsten Fragen und Antworten zu LiaScript samt Links 
 - Virtuelle Klassenräume und interaktive Elemente
 - Macros
 - uvm.
-
 ***************
 
 {{0}}
@@ -62,7 +60,6 @@ In diesem FAQ sind die wichtigsten Fragen und Antworten zu LiaScript samt Links 
 - Welcome to LiaScript: short introduction to the LiaScript live editor, André Dietrich, https://liascript.github.io/LiveEditor/?/edit/jPob89HiLzHklW0mX5xjsuOU
 - Compendium and course on the development of Open-couSes with LiasScript, André Dietrich, 23.10.2023, https://github.com/LiaScript/docs, https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
 - Kleiner Einstieg in LiaScript, LiaEdit, (Britta Petersen) 17.10.2024, https://liascript.github.io/LiveEditor/?/edit/guiCgm5z3tBSbHu5h4is5Wwg mit einer [Arbeitsdatei für die Hands-On-Phase](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/RDM4CAU/LiaPlayground/refs/heads/main/Einstieg-LiaScript_unformatiert.md) und einer formatierten [Arbeitsdatei Hands-On-Phase formatiert](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/RDM4CAU/LiaPlayground/refs/heads/main/Einstieg-LiaScript.md)
-
 ***************
 
 {{0}}
@@ -95,7 +92,6 @@ Developer:
 
 + [Development-Server](https://www.npmjs.com/package/@liascript/devserver)
 + [Exporter](https://www.npmjs.com/package/@liascript/exporter)
-
 ***************
 
 {{0}}
@@ -118,7 +114,6 @@ Developer:
 [Beispiel Darstellung im LMS OpenOlat CAU](https://lms.uni-kiel.de/url/RepositoryEntry/4888821877)
 
 [Beispiel einer studentischen Arbeit](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/Demos/main/literaturrecherche/digitaleliteraturrecherche.md#1)
-
 ***************
 
 {{0}}
@@ -129,7 +124,6 @@ Developer:
 xxx Ressource oder Bild einbinden xxx
 
 (2) DART, 2024, Complete list of our published modules.  https://arcus.github.io/education_modules/list_of_modules
-
 ***************
 
 
@@ -143,7 +137,6 @@ xxx Ressource oder Bild einbinden xxx
 - Offene Bildungsressourcen Forschungsdatenmanagement:  https://liascript.github.io/course/?https://raw.githubusercontent.com/schranzhofer/OER_for_RDM/refs/heads/master/OER_for_RDM_German.md#1
 - Digitale Forschungsdaten: https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/TtT-FDM/refs/heads/main/TtT_Begleitmaterialien_Kapitel4.md#1
 - Data Hazard Lables: https://liascript.github.io/course/?https://raw.githubusercontent.com/JoostKrueger/Data-Hazard-Label-learning-course/main/LearningCourse.md#1
-
 ***************
 
 
@@ -154,5 +147,4 @@ xxx Ressource oder Bild einbinden xxx
 ***************
 - Getting started with Git and GitLab: https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/raw/main/course.md#1 
 - KI und OER: Promt-Tipps für hochwertige Lehrermaterialien: https://www.twillo.de/oer/web/ki-oer-prompt-tipps-lehrmaterialien/
-
 ***************
