@@ -121,7 +121,8 @@ Developer:
 
 {{6-7}}
 ***************
-![DART, 2024, Complete list of our published modules](https://arcus.github.io/education_modules/list_of_modules)<!--width="100%"-->
+[DART, 2024, Complete list of our published modules](https://arcus.github.io/education_modules/list_of_modules)
+
 ***************
 
 
