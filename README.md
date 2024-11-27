@@ -18,7 +18,8 @@ In diesem SODa BeratungsCamps wird den Teilnehmenden .... kostenlos und quelloff
 Das BeratungsCamps besteht aus Modulen, die Forschenden FDM-Fertigkeiten vermitteln gemäß der Ausrichtung der SODa Fachexpertisen. Durch den modualaren Bildungsansatz können Lernende individuell aus Modulen wählen und eigene Lernpfade zusammenstellen. Durch didaktisch angemessen aufbereitete Lehr- und Lernmaterialien können die Teilnehmende den eigenen Wissensstand reflektieren, an Vorwissen anknüpfen und disziplinübergreifend Wissenslücken schließen. 
 
 Im BeratungsCamp "Arbeiten mit strukturierten graphbasierten Daten in der Restaurierungs- und Konservierungsdokumentation" wird ein vorgefertigter Lehr- und Lernpfad angeboten, der selbstständig exploriert, nachgenutzt und personalisiert werden kann. 
-Auf diese Weise werden die Themenbereiche "Arbeiten mit struktierten Daten und Graphen" und "Konservierugns- und Restaurierungsdokumentation (KuR)" kombiniert. Mit einer ausführlichen fachspezifischen Einführung wird an bestehende FDM-Grundlagen-Angebote aufgebaut und die Sammlungs-Community aktiv involviert und mitgedacht.   
+
+Auf diese Weise werden die Themenbereiche "Arbeiten mit struktierten Daten und Graphen" und "Konservierugns- und Restaurierungsdokumentation (KuR)" kombiniert. Mit einer ausführlichen fachspezifischen Einführung wird auf bestehende FDM-Grundlagen-Angebote aufgebaut und die Sammlungs-Community aktiv involviert und mitgedacht.   
 
 ## Zielsetzung
 
